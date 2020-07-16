@@ -5,10 +5,10 @@
 
 ### Let's Connect!!
 <a href="https://www.linkedin.com/in/ayush-jain-2401/">
-  <img align="left" width="50px" src="https://img.icons8.com/bubbles/2x/linkedin.png" />
+  <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/linkedin.png" />
 </a>
 <a href="https://www.facebook.com/aayushjain.smart/">
-  <img align="left" width="50px" src="https://icons8.com/icon/118568/facebook" />
+  <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/facebook-new.png" />
 </a>
 
 <!--
