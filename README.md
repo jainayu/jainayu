@@ -10,6 +10,9 @@
 <a href="https://www.facebook.com/aayushjain.smart/">
   <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/facebook-new.png" />
 </a>
+<a href = "mailto: ayujain.728@gmail.com">
+  <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/gmail.png" />
+</a>
 
 <!--
 **jainayu/jainayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
