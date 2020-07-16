@@ -8,8 +8,6 @@
 <code><img width="50px" src="https://img.icons8.com/color/2x/javascript.png" title="Javascript"/></code>
 <code><img width="50px" src="https://img.icons8.com/color/2x/nodejs.png" title="Node.js"/></code>
 
-.
-
 #### - Let's Connect!!
 
 <a href="https://www.linkedin.com/in/ayush-jain-2401/">
