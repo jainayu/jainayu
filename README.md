@@ -3,11 +3,14 @@
 ![intro-image](https://github.com/jainayu/jainayu/blob/master/images/intro.jpeg)
 
 #### - I am good at:
-<code><img width="50px" src="https://img.icons8.com/color/2x/flutter.png" title="Flutter" /></code>
-<code><img width="50px" src="https://img.icons8.com/fluent/96/android-os.png" title="Android Development"/></code>
-<code><img width="50px" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" title="C++"/></code>
-<code><img width="50px" src="https://img.icons8.com/color/2x/javascript.png" title="Javascript"/></code>
-<code><img width="50px" src="https://img.icons8.com/color/2x/nodejs.png" title="Node.js"/></code>
+<img width="50px" src="https://img.icons8.com/color/2x/flutter.png" title="Flutter" />
+<img width="50px" src="https://img.icons8.com/fluent/96/android-os.png" title="Android Development"/>
+<img width="50px" src="https://img.icons8.com/color/2x/cloud-firestore.png" title="Cloud Firestore"/>
+<img width="50px" src="https://img.icons8.com/color/2x/firebase.png" title="Firebase"/>
+<img width="50px" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" title="C++"/>
+<img width="50px" src="https://img.icons8.com/color/2x/c-programming.png" title="C"/>
+<img width="50px" src="https://img.icons8.com/color/2x/javascript.png" title="Javascript"/>
+<img width="50px" src="https://img.icons8.com/color/2x/nodejs.png" title="Node.js"/>
 
 #### - Let's Connect!!
 
