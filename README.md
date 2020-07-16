@@ -12,6 +12,7 @@
 <a href = "mailto: ayujain.728@gmail.com">
   <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/gmail.png" />
 </a>
+<br>
 <img align="right" src="https://rushter.com/counter.svg">
 
 <!--
