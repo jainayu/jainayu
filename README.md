@@ -7,7 +7,7 @@
 <code><img width="50px" src="https://img.icons8.com/fluent/96/android-os.png" title="Android Development"/></code>
 <code><img width="50px" src="https://img.icons8.com/color/2x/cloud-firestore.png" title="Cloud Firestore"/></code>
 <code><img width="50px" src="https://img.icons8.com/color/2x/firebase.png" title="Firebase"/></code></code>
-<code><img width="</code>50px" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" title="C++"/></code>
+<code><img width="50px" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" title="C++"/></code>
 <code><img width="50px" src="https://img.icons8.com/color/2x/c-programming.png" title="C"/></code>
 <code><img width="50px" src="https://img.icons8.com/color/2x/javascript.png" title="Javascript"/></code>
 <code><img width="50px" src="https://img.icons8.com/color/2x/nodejs.png" title="Node.js"/></code>
