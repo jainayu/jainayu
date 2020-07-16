@@ -1,7 +1,6 @@
 <!-- ### Hi there 👋-->
 
 ![intro-image](https://github.com/jainayu/jainayu/blob/master/images/intro.jpeg)
-<img align="right" src="https://rushter.com/counter.svg">
 
 ### Let's Connect!!
 <a href="https://www.linkedin.com/in/ayush-jain-2401/">
@@ -13,6 +12,7 @@
 <a href = "mailto: ayujain.728@gmail.com">
   <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/gmail.png" />
 </a>
+<img align="right" src="https://rushter.com/counter.svg">
 
 <!--
 **jainayu/jainayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
