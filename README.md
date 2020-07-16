@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋-->
 
 ![intro-image](https://github.com/jainayu/jainayu/blob/master/images/intro.jpeg)
-![profile-views](https://rushter.com/counter.svg)
+<img align="right" src="https://rushter.com/counter.svg">
 
 <!--
 **jainayu/jainayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
