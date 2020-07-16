@@ -2,7 +2,7 @@
 
 ![intro-image](https://github.com/jainayu/jainayu/blob/master/images/intro.jpeg)
 
-### Let's Connect!!
+#### Let's Connect!!
 <a href="https://www.linkedin.com/in/ayush-jain-2401/">
   <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/linkedin.png" />
 </a>
