@@ -3,9 +3,9 @@
 ![intro-image](https://github.com/jainayu/jainayu/blob/master/images/intro.jpeg)
 
 #### - I am good at:
-<code><img align="left" width="50px" src="https://img.icons8.com/color/2x/flutter.png" title="Flutter" /></code>
-<code><img align="left" width="50px" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" title="C++"/></code>
-<code><img align="left" width="50px" src="https://img.icons8.com/color/2x/javascript.png" title="Javascript"/></code>
+<img align="left" width="50px" src="https://img.icons8.com/color/2x/flutter.png" title="Flutter" />
+<img align="left" width="50px" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" title="C++"/>
+<img align="left" width="50px" src="https://img.icons8.com/color/2x/javascript.png" title="Javascript"/>
 
 .
 
