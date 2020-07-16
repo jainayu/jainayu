@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋-->
 
 ![intro-image](https://github.com/jainayu/jainayu/blob/master/images/intro.jpg)
 
