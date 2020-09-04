@@ -17,7 +17,7 @@
 <code><img width="40px" src="https://img.icons8.com/fluent/96/console.png" title="Terminal"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/linux.png" title="Linux"/></code>
 
-![Ayush's Github Stats](https://github-readme-stats.vercel.app/api?username=jainayu&show_icons=true&bg_color=091441)
+![Ayush's Github Stats](https://github-readme-stats.vercel.app/api?username=jainayu&show_icons=true&bg_color=091441&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
 
 ### Let's Connect!!
 
