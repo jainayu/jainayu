@@ -17,6 +17,8 @@
 <code><img width="40px" src="https://img.icons8.com/fluent/96/console.png" title="Terminal"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/linux.png" title="Linux"/></code>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jainayu&layout=compact)
+
 ### Let's Connect!!
 
 <a href="https://www.linkedin.com/in/ayush-jain-2401/">
