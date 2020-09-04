@@ -2,7 +2,7 @@
 
 ![intro-image](https://github.com/jainayu/jainayu/blob/master/images/intro.jpeg)
 
-![Ayush's Github Stats](https://github-readme-stats.vercel.app/api?username=jainayu&show_icons=true&bg_color=204886,3967A2,204886&title_color=091441&text_color=ffffff&icon_color=091441)
+<code>![Ayush's Github Stats](https://github-readme-stats.vercel.app/api?username=jainayu&show_icons=true&bg_color=204886,3967A2,204886&title_color=091441&text_color=ffffff&icon_color=091441)</code>
 
 ### I am good at:
 <code><img width="40px" src="https://img.icons8.com/color/2x/flutter.png" title="Flutter" /></code>
