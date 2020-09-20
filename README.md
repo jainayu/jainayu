@@ -6,6 +6,7 @@
 
 ### I am good at:
 <code><img width="40px" src="https://img.icons8.com/color/2x/flutter.png" title="Flutter" /></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/nodejs.png" title="Node.js"/></code>
 <code><img width="40px" src="https://img.icons8.com/fluent/96/android-os.png" title="Android Development"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/cloud-firestore.png" title="Cloud Firestore"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/firebase.png" title="Firebase"/></code></code>
@@ -15,7 +16,7 @@
 <code><img width="40px" src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" title="Java"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/kotlin.png" title="Kotlin"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/javascript.png" title="Javascript"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/2x/nodejs.png" title="Node.js"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/dart.png" title="Dart"/></code>
 <code><img width="40px" src="https://img.icons8.com/fluent/96/console.png" title="Terminal"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/linux.png" title="Linux"/></code>
 
