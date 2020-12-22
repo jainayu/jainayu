@@ -2,6 +2,7 @@
 
 ![intro-image](https://github.com/jainayu/jainayu/blob/master/images/intro.jpeg)
 
+
 ### I am good at:
 <code><img width="40px" src="https://img.icons8.com/color/2x/flutter.png" title="Flutter" /></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/nodejs.png" title="Node.js"/></code>
@@ -18,6 +19,8 @@
 <code><img width="40px" src="https://img.icons8.com/color/2x/dart.png" title="Dart"/></code>
 <code><img width="40px" src="https://img.icons8.com/fluent/96/console.png" title="Terminal"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/linux.png" title="Linux"/></code>
+
+
 
 ![Ayush's Github Stats](https://github-readme-stats.vercel.app/api?username=jainayu&show_icons=true&bg_color=204886,3967A2,204886&title_color=091441&text_color=ffffff&icon_color=091441)
 
