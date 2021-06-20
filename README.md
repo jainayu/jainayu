@@ -27,6 +27,7 @@
 -------------------
 
 ![Ayush's Github Stats](https://github-readme-stats.vercel.app/api?username=jainayu&show_icons=true&bg_color=204886,3967A2,204886&title_color=091441&text_color=ffffff&icon_color=091441)
+![Ayush's GitHub Streak]([![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jainayu&theme=dark&hide_border=true&background=5288AF&border=FFFFFF&stroke=FFFFFF&ring=122369&currStreakNum=122369&sideNums=FFFFFF&currStreakLabel=122369&sideLabels=122369&dates=FFFFFF&fire=122369)](https://git.io/streak-stats))
 
 --------------------
 
