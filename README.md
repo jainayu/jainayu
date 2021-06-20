@@ -26,8 +26,8 @@
 
 -------------------
 
-![Ayush's Github Stats](https://github-readme-stats.vercel.app/api?username=jainayu&show_icons=true&bg_color=204886,3967A2,204886&title_color=091441&text_color=ffffff&icon_color=091441)
-![Ayush's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jainayu&theme=dark&background=204886&border=FFFFFF&stroke=FFFFFF&ring=0D1D4D&currStreakNum=0D1D4D&sideNums=FFFFFF&currStreakLabel=0D1D4D&sideLabels=FFFFFF&dates=FFFFFF&fire=0D1D4D)
+![Ayush's Github Stats](https://github-readme-stats.vercel.app/api?username=jainayu&show_icons=true&bg_color=204886,3967A2,204886&title_color=091441&text_color=ffffff&icon_color=091441 | width=100)
+![Ayush's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jainayu&theme=dark&background=204886&border=FFFFFF&stroke=FFFFFF&ring=0D1D4D&currStreakNum=0D1D4D&sideNums=FFFFFF&currStreakLabel=0D1D4D&sideLabels=FFFFFF&dates=FFFFFF&fire=0D1D4D | width=100)
 --------------------
 
 ### Let's Connect!!
