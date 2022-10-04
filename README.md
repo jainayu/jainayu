@@ -3,27 +3,28 @@
 ![intro-image](https://github.com/jainayu/jainayu/blob/master/images/intro.jpeg)
 
 
-### I am good at:
-<code><img width="40px" src="https://img.icons8.com/color/2x/flutter.png" title="Flutter" /></code>
+### I've worked on:
+
+<code><img width="40px" src="https://img.icons8.com/color/344/c-sharp-logo-2.png" title="C#"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" title="C++"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/c-programming.png" title="C"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/javascript.png" title="Javascript"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/dart.png" title="Dart"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" title="Java"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/kotlin.png" title="Kotlin"/></code>
+
 <code><img width="40px" src="https://img.icons8.com/color/2x/nodejs.png" title="Node.js"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/flutter.png" title="Flutter" /></code>
 <code><img width="40px" src="https://img.icons8.com/fluent/96/android-os.png" title="Android Development"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/cloud-firestore.png" title="Cloud Firestore"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/firebase.png" title="Firebase"/></code></code>
-<code><img width="40px" src="https://img.icons8.com/fluent/2x/github.png" title="GitHub"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/2x/git.png" title="Git"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" title="C++"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/2x/c-programming.png" title="C"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" title="Java"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/2x/kotlin.png" title="Kotlin"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/2x/javascript.png" title="Javascript"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/2x/dart.png" title="Dart"/></code>
-<code><img width="40px" src="https://img.icons8.com/fluent/96/console.png" title="Terminal"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/2x/linux.png" title="Linux"/></code>
-
-
 <code><img width="40px" src="https://img.icons8.com/fluent/96/microsoft-power-apps-2020.png" title="Microsoft Power Apps"/></code>
 <code><img width="40px" src="https://img.icons8.com/fluent/96/microsoft-power-automate-2020.png" title="Microsoft Power Automate"/></code>
 
+<code><img width="40px" src="https://img.icons8.com/fluent/2x/github.png" title="GitHub"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/git.png" title="Git"/></code>
+<code><img width="40px" src="https://img.icons8.com/fluent/96/console.png" title="Terminal"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/linux.png" title="Linux"/></code>
 -------------------
 
 <img src="https://github-readme-stats.vercel.app/api?username=jainayu&show_icons=true&bg_color=204886,3967A2,204886&title_color=091441&text_color=ffffff&icon_color=091441" width="420" />  <img src="http://github-readme-streak-stats.herokuapp.com?user=jainayu&theme=dark&background=204886&border=FFFFFF&stroke=FFFFFF&ring=0D1D4D&currStreakNum=0D1D4D&sideNums=FFFFFF&currStreakLabel=0D1D4D&sideLabels=FFFFFF&dates=FFFFFF&fire=0D1D4D" width="420" />
