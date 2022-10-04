@@ -4,7 +4,7 @@
 
 
 ### I've worked on:
-**Languages::**
+**Languages:**
 
 <code><img width="50px" src="https://img.icons8.com/color/344/c-sharp-logo-2.png" title="C#"/></code>
 <code><img width="50x" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" title="C++"/></code>
@@ -14,7 +14,8 @@
 <code><img width="50px" src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" title="Java"/></code>
 <code><img width="50px" src="https://img.icons8.com/color/2x/kotlin.png" title="Kotlin"/></code>
 
-**Technologies**
+**Technologies:**
+
 <code><img width="50px" src="https://img.icons8.com/fluency/452/azure-1.png" title="Azure Cloud"/></code>
 <code><img width="50px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/452/external-development-experience-through-the-native-integrations-of-azure-with-visual-studio-logo-color-tal-revivo.png" title="Azure DevOps"/></code>
 <code><img width="50px" src="https://img.icons8.com/color/2x/nodejs.png" title="Node.js"/></code>
