@@ -18,7 +18,7 @@ I'm a passionate software developer with a penchant for architecting solutions u
 <code><img width="50px" src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" title="Java"/></code>
 <code><img width="50px" src="https://img.icons8.com/color/2x/kotlin.png" title="Kotlin"/></code>
 
-## Technologies and Tools Stack:
+### Technologies and Tools Stack:
 
 **Mobile & Web Development:**
 
