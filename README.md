@@ -1,7 +1,5 @@
-<!-- ### Hi there 👋-->
-
-![intro-image](./images/intro.png)
-![intro-image](./images/intro.jpg)
+<!-- ![intro-image](./images/intro.png) -->
+<!-- ![intro-image](./images/intro.jpg) -->
 
 ### I've worked on:
 
@@ -55,17 +53,3 @@
 </a>
 <br>
 <img align="right" src="https://rushter.com/counter.svg">
-
-<!--
-**jainayu/jainayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
