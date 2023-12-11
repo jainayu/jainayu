@@ -1,6 +1,7 @@
 <!-- ### Hi there 👋-->
 
-![intro-image](./images/intro.JPG)
+![intro-image](./images/intro.png)
+![intro-image](./images/intro.jpg)
 
 ### I've worked on:
 
