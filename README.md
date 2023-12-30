@@ -46,9 +46,9 @@ I'm a passionate software developer with a penchant for architecting solutions u
 <code><img width="50px" src="https://img.icons8.com/color/2x/linux.png" title="Linux"/></code>
 
 > 🌟 I thrive on challenges and believe in crafting elegant solutions to complex problems. From mobile and web apps to scalable cloud solutions, I enjoy every step of the development process, constantly learning and evolving.
-
----
 <!--
+---
+
 <img src="https://github-readme-stats.vercel.app/api?username=jainayu&show_icons=true&bg_color=204886,3967A2,204886&title_color=091441&text_color=ffffff&icon_color=091441" width="420" /> <img src="http://github-readme-streak-stats.herokuapp.com?user=jainayu&theme=dark&background=204886&border=FFFFFF&stroke=FFFFFF&ring=0D1D4D&currStreakNum=0D1D4D&sideNums=FFFFFF&currStreakLabel=0D1D4D&sideLabels=FFFFFF&dates=FFFFFF&fire=0D1D4D" width="420" />
 
 ---
