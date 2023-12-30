@@ -3,7 +3,7 @@
 
 # 👋 Hi there, I'm Ayush Jain, a Software Developer!
 
-I'm a passionate software developer with a penchant for architecting solutions using various platforms for scalable deployments, real-time data handling, and application development. Throughout my journey in development, I've honed my skills in version control mastery with tools like GitHub, embraced robust project management via modern platforms, and found a comfort in command-line wizardry on different operating systems.
+I'm a passionate software developer with a penchant for architecting solutions using various platforms for scalable deployments, real-time data handling, and application development. Throughout my journey in development, I've honed my skills in version control mastery with tools like GitHub, embraced robust project management via modern platforms, and found comfort in command-line wizardry on different operating systems.
 
 ## 🚀 My Toolbox:
 
@@ -48,11 +48,11 @@ I'm a passionate software developer with a penchant for architecting solutions u
 > 🌟 I thrive on challenges and believe in crafting elegant solutions to complex problems. From mobile and web apps to scalable cloud solutions, I enjoy every step of the development process, constantly learning and evolving.
 
 ---
-
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=jainayu&show_icons=true&bg_color=204886,3967A2,204886&title_color=091441&text_color=ffffff&icon_color=091441" width="420" /> <img src="http://github-readme-streak-stats.herokuapp.com?user=jainayu&theme=dark&background=204886&border=FFFFFF&stroke=FFFFFF&ring=0D1D4D&currStreakNum=0D1D4D&sideNums=FFFFFF&currStreakLabel=0D1D4D&sideLabels=FFFFFF&dates=FFFFFF&fire=0D1D4D" width="420" />
 
 ---
-
+-->
 **📫 Let's connect and explore the endless possibilities of tech together! Reach out at**
 
 <a href="https://www.linkedin.com/in/ayush-jain-2401/">
