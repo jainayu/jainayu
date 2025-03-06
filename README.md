@@ -1,4 +1,4 @@
-<!-- ![intro-image](./images/intro.png) -->
+![intro-image](./images/intro.png)
 <!-- ![intro-image](./images/intro.jpg) -->
 
 # 👋 Hi there, I'm Ayush Jain, a Software Developer!
@@ -58,9 +58,11 @@ I'm a passionate software developer with a penchant for architecting solutions u
 <a href="https://www.linkedin.com/in/ayush-jain-2401/">
   <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/linkedin.png" />
 </a>
+<!--
 <a href="https://www.facebook.com/aayushjain.smart/">
   <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/facebook-new.png" />
 </a>
+-->
 <a href="https://www.instagram.com/indiecoder/">
   <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/instagram.png" />
 </a>
