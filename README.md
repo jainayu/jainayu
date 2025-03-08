@@ -1,8 +1,6 @@
 ![intro-image](./images/intro.png)
 <!-- ![intro-image](./images/intro.jpg) -->
-
-# 👋 Hi there, I'm Ayush Jain, a Software Developer!
-
+<!-- # 👋 Hi there, I'm Ayush Jain, a Software Developer! -->
 I'm a passionate software developer with a penchant for architecting solutions using various platforms for scalable deployments, real-time data handling, and application development. Throughout my journey in development, I've honed my skills in version control mastery with tools like GitHub, embraced robust project management via modern platforms, and found comfort in command-line wizardry on different operating systems.
 
 ## 🚀 My Toolbox:
