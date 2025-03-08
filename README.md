@@ -68,4 +68,4 @@ I'm a passionate software developer with a penchant for architecting solutions u
   <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/gmail.png" />
 </a>
 <br>
-<img align="right" src="https://rushter.com/counter.svg">
+<img align="right" src="https://komarev.com/ghpvc/?username=jainayu&color=5288af&base=535415&label=MY+HYPE">
